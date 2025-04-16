@@ -1,1 +1,1 @@
-Java ile oluşturulmuş tetris deneme projesi.
+Java ile oluşturulmuş tetris deneme projesidir.
